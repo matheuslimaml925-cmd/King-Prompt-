@@ -1,0 +1,6 @@
+{
+  "name": "KING PROMPT™ | Link in Bio",
+  "description": "Prompts que convertem. IA aplicada à criação de imagens, conteúdo e vendas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
